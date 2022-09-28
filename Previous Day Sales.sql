@@ -21,7 +21,7 @@ and pv.Id in (8789,20462)
 
 group by tr.ProductVariantId,
          pv.Name
-		 --s.WarehouseId
+
 
 
 --SELECT PV.Id [PVID]
